@@ -1,8 +1,9 @@
 import '../styles/main.scss';
 
+import screenInit from './components/screenInit';
+
 const init = () => {
-  $('#app').html('<h1>HELLO! You are up and running!</h1>');
-  console.log('YOU ARE UP AND RUNNING!');
+  screenInit();
 };
 
 init();
