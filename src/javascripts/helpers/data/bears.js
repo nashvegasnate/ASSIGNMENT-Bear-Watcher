@@ -9,11 +9,11 @@ const bears = [
   },
   {
     name: 'Bill',
-    imageUrl: 'https://i.pinimg.com/236x/90/d5/c2/90d5c2c2fdfbd3eab4c4e4a2190d0a88.jpg',
+    imageUrl: 'https://www.publicdomainpictures.net/pictures/220000/velka/kodiak-brown-bear.jpg',
   },
   {
     name: 'Louise',
-    imageUrl: 'https://www.publicdomainpictures.net/pictures/230000/velka/brown-bear-1504708649cqE.jpg',
+    imageUrl: 'https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHw%3D&w=1000&q=80',
   },
 
 ];

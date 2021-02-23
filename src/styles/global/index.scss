@@ -1,4 +1,42 @@
 #jumboTron {
-  background-color:rgb(185, 161, 115);
- 
+  background-image: url(https://www.nps.gov/npgallery/GetAsset/BAB38573-1DD8-B71C-073CD5B317227207/proxy/hires);
+  background-size: 100%;
+  padding: 10px;
 };
+
+body {
+  background-color: #173c4d;
+  color: rgb(77, 6, 39);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  align-content: center;
+  margin-top: 100px;
+};
+
+#bearList {
+  display:inline-flex;
+  flex-wrap: wrap;
+  margin: 10px;
+  justify-content: center;
+  padding: 10px;
+  background-image:url(https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2678632/5692403/PDDUS02MDE0210__47487.1570190617.jpg?c=2);
+
+};
+
+#name {
+  display: flex;
+  width: 100%;
+  margin: 15px;
+};
+
+#imageUrl {
+  display: flex;
+  width: 100%;
+  margin: 15px;
+}
+
+#bearForm {
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+}

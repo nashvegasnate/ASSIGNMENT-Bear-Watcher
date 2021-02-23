@@ -5,7 +5,7 @@ import bears from '../helpers/data/bears';
 const river = () => {
   let domString = '';
   bears.forEach((item, i) => {
-    domString += `<div class="card" style="width: 18rem;" id="${i}">
+    domString += `<div class="card m-5" style="width: 18rem;" id="${i}">
                     <img class="card-img-top" img src="${item.imageUrl}"></img>
                     <div class="card-body">
                       <p class="card-text">${item.name}</p>
