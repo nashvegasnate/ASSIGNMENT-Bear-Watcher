@@ -4,6 +4,7 @@ Each year between July and September brown bears in the Katmai National Park con
 
 You have been tasked with creating a site scientists and park ranger can use to track these bears.
 
+# Loom Video link: https://www.loom.com/share/c3a9f3b6f8c74a25b65e2c79510c9c29
 ## Get Started
 
 1. Clone this repo
