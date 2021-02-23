@@ -1,9 +1,11 @@
 @import "~bootstrap/scss/bootstrap";
 @import "~@fortawesome/fontawesome-free/css/all.min.css";
 
+@import './global/index';
+
 body {
   background-color: #799c82;
   color: brown;
   text-align: center;
-  margin-top: 100px;
+  margin-top: 50px;
 }
