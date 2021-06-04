@@ -2,9 +2,12 @@
 ## Description
 Each year between July and September brown bears in the Katmai National Park congregate along the Brooks River.  This river is one of the main rivers that Sockeye Salmon swim up to spawn.  The brown bears wait in the shallows of the river and catch the salmon as they jump over rocks.  This app lets you add and track your favorite bears in the park.
 
-# Loom Video link: https://www.loom.com/share/c3a9f3b6f8c74a25b65e2c79510c9c29
+## Loom Video link: https://www.loom.com/share/c3a9f3b6f8c74a25b65e2c79510c9c29
 
-# Netlify deployment link: https://trusting-hamilton-d3013d.netlify.app/
+## Netlify deployment link: https://trusting-hamilton-d3013d.netlify.app/
+
+## Screenshot 
+![Screen Shot 2021-06-04 at 10 59 08 AM](https://user-images.githubusercontent.com/76710923/120830338-01863800-c524-11eb-9b87-5673a4b8e6fb.png)
 
 ## User Story
 * As a user, when the page loads, you will see a form that allows you to enter a bear name and image of a new bear.
